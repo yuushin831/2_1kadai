@@ -19,7 +19,7 @@ int main()
 		"Okachimachi","Akihabara","Kanda"
 	};
 
-	printf("-------1970”N-------\n");
+	printf("-------1970”N-------_\n");
 	for (auto itr = eki.begin(); itr != eki.end(); ++itr)
 	{
 		printf("%s\n", *itr);
